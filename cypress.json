@@ -1,0 +1,12 @@
+{
+  "defaultCommandTimeout":10000,
+  "video": false,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "testFiles": "**/*.feature",
+  "projectId": "dv89eh"
+}
